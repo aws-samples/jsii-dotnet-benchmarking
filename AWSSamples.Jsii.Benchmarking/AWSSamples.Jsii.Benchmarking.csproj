@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>AWSSamples.Jsii.Benchmarking</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.12.1" />
+    <PackageReference Include="AWSSamples.Jsii" Version="1.7.0" />
+    <PackageReference Include="AWSSamples.Jsii.Native" Version="1.5.0" />
+  </ItemGroup>
+
+</Project>

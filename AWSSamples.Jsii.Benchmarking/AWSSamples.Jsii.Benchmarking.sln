@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSSamples.Jsii.Benchmarking", "AWSSamples.Jsii.Benchmarking.csproj", "{9401DA8E-970D-487D-A199-5F890EFB8348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9401DA8E-970D-487D-A199-5F890EFB8348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9401DA8E-970D-487D-A199-5F890EFB8348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9401DA8E-970D-487D-A199-5F890EFB8348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9401DA8E-970D-487D-A199-5F890EFB8348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
